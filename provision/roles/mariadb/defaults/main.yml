@@ -1,5 +1,4 @@
 ---
-mysql_repo_url: "http://rpms.famillecollet.com/enterprise/remi-release-6.rpm"
 mysql_user: mysql
 mysql_root_password: password
 mysql_log_directory: /var/log/mysql

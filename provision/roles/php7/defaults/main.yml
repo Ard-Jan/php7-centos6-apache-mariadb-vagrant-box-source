@@ -1,26 +1,26 @@
 ---
 php_packages:
-  - php71u
-  - php71u-bcmath
-  - php71u-cli
-  - php71u-common
-  - php71u-devel
-  - php71u-fpm
-  - php71u-gd
-  - php71u-json
-  - php71u-intl
-  - php71u-mbstring
-  - php71u-mcrypt
-  - php71u-mysqlnd
-  - php71u-opcache
-  - php71u-pdo
-  - php71u-pecl-igbinary
-  - php71u-pecl-igbinary-devel
-  - php71u-pecl-redis
-  - php71u-pecl-xdebug
-  - php71u-process
-  - php71u-soap
-  - php71u-xml
+  - php70w
+  - php70w-bcmath
+  - php70w-opcache
+  - php70w-fpm
+  - php70w-cli
+  - php70w-common
+  - php70w-devel
+  - php70w-gd
+  - php70w-intl
+  - php70w-json
+  - php70w-mbstring
+  - php70w-mcrypt
+  - php70w-mysqlnd
+  - php70w-pdo
+  - php70w-pear
+  - php70w-pecl-imagick
+  - php70w-pecl-xdebug
+  - php70w-process
+  - php70w-soap
+  - php70w-xml
+  - php70w-xmlrpc
 
 extension_build_directory: /opt
 extension_modules_folder: /usr/lib64/php/modules

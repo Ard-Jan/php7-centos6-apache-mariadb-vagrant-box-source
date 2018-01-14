@@ -1,7 +1,7 @@
 ---
 - name: Start MySQL service
   service:
-    name: mysqld
+    name: mysql
     state: started
 
 - name: Create new password for root user
